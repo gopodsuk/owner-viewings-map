@@ -1,0 +1,346 @@
+{
+  "0": {
+    "city": "",
+    "id": "193",
+    "lat": 51.7496285807682,
+    "lng": 0.44861055924681814,
+    "name": "Alan",
+    "note": "This owner has a Go-Pod manufactured in 2022 and tows it behind a VW campervan."
+  },
+  "1": {
+    "city": "",
+    "id": "191",
+    "lat": 51.285036125387414,
+    "lng": 0.5223888581359937,
+    "name": "Ali",
+    "note": "This owner has a Go-Pod Pioneer model, manufactured in 2024."
+  },
+  "2": {
+    "city": "",
+    "id": "38",
+    "lat": 51.06684,
+    "lng": -1.33223,
+    "name": "Alison",
+    "note": "This owner has a Go-Pod manufactured in 2016. Please note, this Go-Pod may not be representative of current models."
+  },
+  "3": {
+    "city": "",
+    "id": "190",
+    "lat": 54.12730711372837,
+    "lng": -2.0578466562499953,
+    "name": "Alison & Mike",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "4": {
+    "city": "",
+    "id": "198",
+    "lat": 51.499286412055525,
+    "lng": -2.148079027014156,
+    "name": "Bruce",
+    "note": "This owner has a Go-Pod manufactured in 2022."
+  },
+  "5": {
+    "city": "",
+    "id": "116",
+    "lat": 51.840414830859,
+    "lng": -2.1791346351959,
+    "name": "Caroline",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "6": {
+    "city": "",
+    "id": "195",
+    "lat": 54.886982852688924,
+    "lng": -3.352055312011728,
+    "name": "Carolyn",
+    "note": "This owner has a Go-Pod Pioneer model, manufactured in 2024."
+  },
+  "7": {
+    "city": "",
+    "id": "99",
+    "lat": 53.37347,
+    "lng": -2.90765,
+    "name": "Carolyn & Peter",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "8": {
+    "city": "",
+    "id": "156",
+    "lat": 51.88603,
+    "lng": -2.5869,
+    "name": "Chris",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "9": {
+    "city": "",
+    "id": "85",
+    "lat": 52.99828,
+    "lng": -1.24958,
+    "name": "Dave",
+    "note": "This owner has a Go-Pod manufactured in 2017, with a green fibreglass shell. Please note, this Go-Pod may not be representative of current models."
+  },
+  "10": {
+    "city": "",
+    "id": "115",
+    "lat": 50.92755,
+    "lng": -2.64891,
+    "name": "Hannah",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "11": {
+    "city": "",
+    "id": "168",
+    "lat": 51.74465,
+    "lng": -0.30589,
+    "name": "Helen",
+    "note": "This owner has a Go-Pod manufactured in 2021."
+  },
+  "12": {
+    "city": "",
+    "id": "164",
+    "lat": 50.78614,
+    "lng": -0.72,
+    "name": "Ian",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "13": {
+    "city": "",
+    "id": "160",
+    "lat": 50.68868,
+    "lng": -3.46887,
+    "name": "Jackie",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "14": {
+    "city": "",
+    "id": "169",
+    "lat": 52.974265381509575,
+    "lng": -1.4372569644042965,
+    "name": "Jane",
+    "note": "This owner has a Go-Pod manufactured in 2018."
+  },
+  "15": {
+    "city": "",
+    "id": "183",
+    "lat": 53.310359104385,
+    "lng": -2.2486550539673,
+    "name": "Jayne",
+    "note": "This owner has a Go-Pod manufactured in 2017. Please note, this Go-Pod may not be representative of current models."
+  },
+  "16": {
+    "city": "",
+    "id": "185",
+    "lat": 50.830047675724,
+    "lng": -0.19613151747436,
+    "name": "Jeff",
+    "note": "This owner has a Go-Pod manufactured in 2022, with a blue fibreglass shell. They tow their Go-Pod with a Tesla EV."
+  },
+  "17": {
+    "city": "",
+    "id": "55",
+    "lat": 54.02454,
+    "lng": -1.16003,
+    "name": "John",
+    "note": "This owner has a Go-Pod manufactured in 2016. Please note, this Go-Pod may not be representative of current models."
+  },
+  "18": {
+    "city": "",
+    "id": "192",
+    "lat": 53.37597857664066,
+    "lng": -3.1694491169494676,
+    "name": "Kath",
+    "note": "This owner has a Go-Pod manufactured in 2022."
+  },
+  "19": {
+    "city": "",
+    "id": "176",
+    "lat": 52.890534433642,
+    "lng": -1.2682434873108,
+    "name": "Kelly",
+    "note": "This owner has a Go-Pod manufactured in 2022."
+  },
+  "20": {
+    "city": "",
+    "id": "61",
+    "lat": 52.6299,
+    "lng": -9.61028,
+    "name": "Kevin & Trea",
+    "note": "This owner has a Go-Pod manufactured in 2016. Please note, this Go-Pod may not be representative of current models."
+  },
+  "21": {
+    "city": "",
+    "id": "179",
+    "lat": 52.189601790737,
+    "lng": -2.19892038302,
+    "name": "Lisa",
+    "note": "This owner has a Go-Pod manufactured in 2022."
+  },
+  "22": {
+    "city": "",
+    "id": "197",
+    "lat": 51.94266738939967,
+    "lng": -10.212478984594721,
+    "name": "Lucy",
+    "note": "This owner has a Go-Pod manufactured in 2018."
+  },
+  "23": {
+    "city": "",
+    "id": "196",
+    "lat": 51.75222057001551,
+    "lng": -2.2182044391784683,
+    "name": "Mark & Vicky",
+    "note": "This owner has a Go-Pod Pioneer model, manufactured in 2024 with a blue fibreglass shell."
+  },
+  "24": {
+    "city": "",
+    "id": "189",
+    "lat": 51.526974104098,
+    "lng": -3.0966491439636,
+    "name": "Michael",
+    "note": "This owner has a Go-Pod manufactured in 2022."
+  },
+  "25": {
+    "city": "",
+    "id": "171",
+    "lat": 50.86335,
+    "lng": -1.32948,
+    "name": "Mike",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "26": {
+    "city": "",
+    "id": "87",
+    "lat": 55.22216,
+    "lng": -1.5564,
+    "name": "Moray",
+    "note": "This owner has a Go-Pod manufactured in 2017. Please note, this Go-Pod may not be representative of current models."
+  },
+  "27": {
+    "city": "",
+    "id": "170",
+    "lat": 54.55954,
+    "lng": -5.91881,
+    "name": "Nichola",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "28": {
+    "city": "",
+    "id": "157",
+    "lat": 53.36679292654212,
+    "lng": -1.5419039952148483,
+    "name": "Nick",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "29": {
+    "city": "",
+    "id": "114",
+    "lat": 53.25121,
+    "lng": -1.36716,
+    "name": "Niki",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "30": {
+    "city": "",
+    "id": "132",
+    "lat": 54.57287,
+    "lng": -5.91085,
+    "name": "Noel",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "31": {
+    "city": "",
+    "id": "172",
+    "lat": 51.46734,
+    "lng": -1.93289,
+    "name": "Paddy",
+    "note": "This owner has a Go-Pod manufactured in 2022, with a violet fibreglass shell."
+  },
+  "32": {
+    "city": "",
+    "id": "159",
+    "lat": 51.46244,
+    "lng": -3.45677,
+    "name": "Paul",
+    "note": "This owner has a Go-Pod manufactured in 2020."
+  },
+  "33": {
+    "city": "",
+    "id": "201",
+    "lat": 51.5362771076137,
+    "lng": -2.543332181939688,
+    "name": "Paul",
+    "note": "This owner has a Go-Pod manufactured in 2021."
+  },
+  "34": {
+    "city": "",
+    "id": "59",
+    "lat": 53.92181,
+    "lng": -1.67586,
+    "name": "Penny & Simon",
+    "note": "This owner has a Go-Pod manufactured in 2017. Please note, this Go-Pod may not be representative of current models."
+  },
+  "35": {
+    "city": "",
+    "id": "105",
+    "lat": 53.91372,
+    "lng": -1.93337,
+    "name": "Peter",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "36": {
+    "city": "",
+    "id": "150",
+    "lat": 53.889,
+    "lng": -1.12106,
+    "name": "Rachel",
+    "note": "This owner has a Go-Pod manufactured in 2020, with a grey fibreglass shell."
+  },
+  "37": {
+    "city": "",
+    "id": "147",
+    "lat": 53.20673,
+    "lng": -3.07602,
+    "name": "Rhian",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "38": {
+    "city": "",
+    "id": "167",
+    "lat": 51.20196,
+    "lng": -2.65278,
+    "name": "Robin & Louise",
+    "note": "This owner has a Go-Pod manufactured in 2021."
+  },
+  "39": {
+    "city": "",
+    "id": "203",
+    "lat": 52.24205595941339,
+    "lng": 0.6979810925903385,
+    "name": "Sara & Kevin",
+    "note": "This owner has a Go-Pod manufactured in 2022, with a grey fibreglass shell."
+  },
+  "40": {
+    "city": "",
+    "id": "200",
+    "lat": 50.3510700783863,
+    "lng": -4.864255436276241,
+    "name": "Sarah",
+    "note": "This owner has a Go-Pod manufactured in 2019."
+  },
+  "41": {
+    "city": "",
+    "id": "32",
+    "lat": 52.21006,
+    "lng": -2.18319,
+    "name": "Steve",
+    "note": "This owner has a Go-Pod manufactured in 2014. Please note, this Go-Pod may not be representative of current models."
+  },
+  "42": {
+    "city": "",
+    "id": "202",
+    "lat": 51.01885872891753,
+    "lng": -0.35063546748962393,
+    "name": "Sue",
+    "note": "This owner has a Go-Pod manufactured in 2023."
+  }
+}
