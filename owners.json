@@ -297,6 +297,14 @@
   },
   {
     "city": "",
+    "id": "1",
+    "lat": 53.6174151975915,
+    "lng": -2.94594882895891,
+    "name": "Red Lion Caravan Centre",
+    "note": "Home of Go-Pods - the sole UK dealership."
+  },
+  {
+    "city": "",
     "id": "147",
     "lat": 53.20673,
     "lng": -3.07602,
