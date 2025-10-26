@@ -120,6 +120,18 @@
     "type": "owner"
   },
   {
+    "id": "159",
+    "ownerNumber": "159",
+    "name": "Paul",
+    "city": "",
+    "lat": 51.46244,
+    "lng": -3.45677,
+    "note": "This owner has a Go-Pod manufactured in 2020. He is a former site assessor for Alan Rogers Travel Guides and has travelled across most of Europe in his Go-Pod!",
+    "contact_email": "",
+    "contact_phone": "",
+    "type": "owner"
+  },
+  {
     "id": "160",
     "ownerNumber": "160",
     "name": "Jackie",
