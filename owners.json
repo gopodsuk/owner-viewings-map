@@ -300,18 +300,6 @@
     "type": "owner"
   },
   {
-    "id": "191",
-    "ownerNumber": "191",
-    "name": "Ali",
-    "city": "",
-    "lat": 51.285036125387414,
-    "lng": 0.5223888581359937,
-    "note": "This owner has a Go-Pod Pioneer model, manufactured in 2024.",
-    "contact_email": "",
-    "contact_phone": "",
-    "type": "owner"
-  },
-  {
     "id": "192",
     "ownerNumber": "192",
     "name": "Kath",
@@ -450,6 +438,18 @@
     "city": "",
     "lat": 51.06684,
     "lng": -1.33223,
+    "note": "This owner has a Go-Pod manufactured in 2016. Please note, this Go-Pod may not be representative of current models.",
+    "contact_email": "",
+    "contact_phone": "",
+    "type": "owner"
+  },
+  {
+    "id": "5",
+    "ownerNumber": "5",
+    "name": "Chris",
+    "city": "",
+    "lat": 51.82178,
+    "lng": -1.39005,
     "note": "This owner has a Go-Pod manufactured in 2016. Please note, this Go-Pod may not be representative of current models.",
     "contact_email": "",
     "contact_phone": "",
